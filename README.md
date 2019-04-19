@@ -6,9 +6,9 @@ A tutorial about docker and docker-compose.
 
 ## Setup
 1. [Download and install `vagrant`](https://www.vagrantup.com/downloads.html)
-   a. Windows Users - You'll need to reboot after this step.
+   1. Windows Users - You'll need to reboot after this step.
 2. [Download and install `VirtualBox`](https://www.virtualbox.org/wiki/Downloads)
-   a. Windows Users - If you have HyperV installed you will need to uninstall it while we do the demo.
+   1. Windows Users - If you have HyperV installed you will need to uninstall it while we do the demo.
 3. Clone this repository
 4. `cd` into this directory and run `vagrant up` from the command line
 5. After the vm is up and provisioned, run `vagrant ssh`
